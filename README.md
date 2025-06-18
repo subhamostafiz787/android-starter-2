@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://github.com/subhamostafiz787/android-starter-2/blob/main/Subha%20Mostafiz%20(1).gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/subhamostafiz787/android-starter-2/blob/main/SM.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
