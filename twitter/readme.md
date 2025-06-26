@@ -15,7 +15,7 @@ Time spent: **3** hours spent in total
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/subhamostafiz787/android-starter-2/blob/main/twitter/Subha%20Mostafiz.gif)' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
