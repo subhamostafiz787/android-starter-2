@@ -2,15 +2,15 @@
 
 # AND101 Project 3 - AnimalApps
 
-Submitted by: **Your Name Here**
+Submitted by: **Subha Mostafiz**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**Twitter** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😀🧐🥳**
 
 ## Application Features
 
@@ -18,23 +18,23 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Pick an app screenshot to duplicate
+- [x] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ ] Layout uses one (1) or more ConstraintLayout
-- [ ] Layout uses one (1) or more ImageView
-- [ ] Layout uses three (3) or more TextViews
+- [x] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [x] Layout uses one (1) or more ConstraintLayout
+- [x] Layout uses one (1) or more ImageView
+- [x] Layout uses three (3) or more TextViews
 
 The following STRETCH features are implemented:
 
-- [ ] Create a custom-shape Button using Shape Drawables
-- [ ] Customize the text fonts by creating new Font Resources
-- [ ] Add Tooltips to your Views to help users understand how to navigate the UI
-- [ ] Create a second layout, this time for an original, personal app idea
+- [x] Create a custom-shape Button using Shape Drawables
+- [x] Customize the text fonts by creating new Font Resources
+- [x] Add Tooltips to your Views to help users understand how to navigate the UI
+- [x] Create a second layout, this time for an original, personal app idea
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] List anything else that you added to improve the app!
 
 ## Chosen Screenshot
 
