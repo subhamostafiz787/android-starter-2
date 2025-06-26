@@ -32,9 +32,6 @@ The following STRETCH features are implemented:
 - [x] Add Tooltips to your Views to help users understand how to navigate the UI
 - [x] Create a second layout, this time for an original, personal app idea
 
-The following EXTRA features are implemented:
-
-- [x] List anything else that you added to improve the app!
 
 ## Chosen Screenshot
 
@@ -55,21 +52,10 @@ GIF created with **Canva**
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
 
-## Original App Layout (Optional Stretch Feature)
-
-Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
-
-It is for an app that **brief description**.
-
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
-
-## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2025** **Subha Mostafiz**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
