@@ -2,13 +2,13 @@
 
 # AND101 Project 5 - Choose Your Own API
 
-Submitted by: **Your Name Here**
+Submitted by: **Subha Mostafiz**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a random character from the Game of Thrones API")**
+**Pikachu**
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
@@ -18,9 +18,9 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Make an API call to an API of your choice using AsyncHTTPClient
-- [ ] Display at least three (3) pieces of data for each API entry retrieved
-- [ ] A working Button requests a new API entry and updates the data displayed
+- [x] Make an API call to an API of your choice using AsyncHTTPClient
+- [x] Display at least three (3) pieces of data for each API entry retrieved
+- [x] A working Button requests a new API entry and updates the data displayed
 
 The following STRETCH features are implemented:
 
@@ -34,13 +34,13 @@ The following EXTRA features are implemented:
 
 ## API Choice
 
-My chosen API for this project is **enter here**.
+My chosen API for this project is **Pokemon**.
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/subhamostafiz787/android-starter-2/blob/main/api_build/Gif%202.gif)' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
